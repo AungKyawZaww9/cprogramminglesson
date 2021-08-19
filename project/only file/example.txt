@@ -1,0 +1,5 @@
+
+				  Welcome to Mandalay
+
+				Where do you wanna go?
+Please enter (East_District, West_District, North_District or South_District) 
